@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/resume-react-app/static/css/main.adc36d2a.css",
-    "main.js": "/resume-react-app/static/js/main.e63dd2c1.js",
+    "main.css": "/resume-react-app/static/css/main.4e03f3ab.css",
+    "main.js": "/resume-react-app/static/js/main.9445a045.js",
     "static/media/project5.jpg": "/resume-react-app/static/media/project5.0ab2ae0df02f43a22b19.jpg",
     "static/media/project1.jpg": "/resume-react-app/static/media/project1.e744d905a330b1152fc8.jpg",
     "static/media/about.jpg": "/resume-react-app/static/media/about.291b52c11c7e3f913121.jpg",
@@ -11,13 +11,13 @@
     "static/media/header.jpg": "/resume-react-app/static/media/header.00d187c7ab263c4102fa.jpg",
     "static/media/logo.jpg": "/resume-react-app/static/media/logo.fedf8251206fc5683dec.jpg",
     "static/media/project3.jpg": "/resume-react-app/static/media/project3.42b69e0d17dc06872ffa.jpg",
-    "static/media/cv.pdf": "/resume-react-app/static/media/cv.e05876c2e576e8e17ee2.pdf",
+    "static/media/cv.pdf": "/resume-react-app/static/media/cv.808dcb7bd6bd5e364e27.pdf",
     "index.html": "/resume-react-app/index.html",
-    "main.adc36d2a.css.map": "/resume-react-app/static/css/main.adc36d2a.css.map",
-    "main.e63dd2c1.js.map": "/resume-react-app/static/js/main.e63dd2c1.js.map"
+    "main.4e03f3ab.css.map": "/resume-react-app/static/css/main.4e03f3ab.css.map",
+    "main.9445a045.js.map": "/resume-react-app/static/js/main.9445a045.js.map"
   },
   "entrypoints": [
-    "static/css/main.adc36d2a.css",
-    "static/js/main.e63dd2c1.js"
+    "static/css/main.4e03f3ab.css",
+    "static/js/main.9445a045.js"
   ]
 }
